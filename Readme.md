@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владислав Бирюков](https://up.htmlacademy.ru/javascript/18/user/1058989).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Прибитков](https://htmlacademy.ru/profile/id1061259).
 
 ---
 
